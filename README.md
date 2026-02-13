@@ -1,7 +1,7 @@
 - Hi, I’m @Nalawade-Purva
-- I’m interested in cybersecurity, OSINT, digital forensics, and AI
-- I’m currently learning advanced cybersecurity concepts, ethical hacking, and machine learning
-- I’m looking to collaborate on cybersecurity, AI, and forensics-related projects
+- Cybersecurity | Red Team | VAPT | OSINT & Digital Forensics
+- Working on real-world security problems across web, network, and threat analysis
+- Open to collaboration on cybersecurity, forensics, and security-focused AI projects
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/purva-arun-nalawade-532921315/)
 - Pronouns: She/Her
 - Fun fact: I’m passionate about solving complex security challenges and helping to make digital spaces safer.
