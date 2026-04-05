@@ -2,6 +2,6 @@
 - Cybersecurity | Red Team | VAPT | OSINT & Digital Forensics
 - Working on real-world security problems across web, network, and threat analysis
 - Open to collaboration on cybersecurity, forensics, and security-focused AI projects
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/purva-arun-nalawade-532921315/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/purva-arun-nalawade-532921315/) [Portfolio](https://nalawade-purva.github.io/)
 - Pronouns: She/Her
 - Fun fact: I’m passionate about solving complex security challenges and helping to make digital spaces safer.
