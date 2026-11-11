@@ -102,4 +102,3 @@ Open to collaboration on cybersecurity, forensics, and security-focused AI proje
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-*Fun fact: I'm passionate about solving complex security challenges and helping make digital spaces safer.*
