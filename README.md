@@ -10,7 +10,7 @@
 ![AWS Academy](https://img.shields.io/badge/AWS-Academy%20Graduate-ff9900?style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-212c42?style=flat-square)
 
-[Portfolio](https://nalawade-purva.github.io/) · [Terminal Portfolio](https://nalawade-purva.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/purva-arun-nalawade-532921315/) · [Email](mailto:purvanalawade09@gmail.com)
+[Portfolio](https://nalawade-purva.github.io/) · [LinkedIn](https://www.linkedin.com/in/purva-arun-nalawade-532921315/) · [Email](mailto:purvanalawade09@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```text
 guest@purva:~$ whoami
-Purva Nalawade (she/her), final-year B.Tech Cybersecurity, Honours in AI/ML, SAKEC Mumbai
+Purva Nalawade (she/her), final-year B.Tech Cybersecurity, Honours in AI/ML, Mumbai University.
 
 guest@purva:~$ cat focus.txt
 Breaking web apps (OWASP Top 10 VAPT)
@@ -28,10 +28,6 @@ Attacking and defending ML systems (adversarial examples, LLM safety)
 guest@purva:~$ ls experience/
 maharashtra_cyber/   cyberpeace_coe/   deepcytes_redteam/   millennium_fullstack/
 
-guest@purva:~$ ls research/
-worlds4_nids_adversarial_transferability.pdf   # Springer LNNS, WorldS4 2026
-trustfade_llm_forgetting.pdf                   # Springer LNNS, ICTCS 2026
-indian_patent_202621074738.pdf                 # zero-knowledge adversarial forensic simulation
 
 guest@purva:~$ echo $STATUS
 Open to collaboration on cybersecurity, forensics, and security-focused AI projects
